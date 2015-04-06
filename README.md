@@ -9,4 +9,5 @@ Flooding in SE Kenya - Gallina River (credit: NASA)
 
 ![Kenya Flooding](http://eoimages.gsfc.nasa.gov/images/imagerecords/17000/17568/tana_amo_2006340.jpg)
 
-![Stemborer damage - (C) Icipe - Africa Insect Science for Food and Health](http://www.push-pull.net/images/90.jpg)
+Stemborer maize crop damage - (C) [Icipe](http://www.icipe.org) - Africa Insect Science for Food and Health
+![Stemborer damage](http://www.push-pull.net/images/90.jpg)
