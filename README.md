@@ -5,7 +5,7 @@
 
 Contribute code and materials only if they can be used in compliance with the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0) and the [Legal Terms of the Challenge event](https://2015.spaceappschallenge.org/about/legal/).
 
-Stemborer maize crop damage - (C) [Icipe](http://www.icipe.org) - Africa Insect Science for Food and Health
+[Stemborer](http://en.wikipedia.org/wiki/Stemborer) maize crop damage - (C) [Icipe](http://www.icipe.org) - Africa Insect Science for Food and Health
 ![Stemborer damage](http://www.push-pull.net/images/90.jpg)
 
 [Bududa landslide 2012](http://www.theguardian.com/world/2012/jun/26/uganda-landslides-dead-villages-destroyed) - (credit: [Peter Busomoke](http://newzcard.com/photographer/bfToL)/AFP/Getty Images)
