@@ -8,3 +8,5 @@ Contribute code and materials only if they can be used in compliance with the [A
 See [wiki main page](https://github.com/ProjectPersephone/Moombi/wiki) for details.
 
 ![Kenya Flooding -- before and after](http://eoimages.gsfc.nasa.gov/images/imagerecords/17000/17568/tana_amo_2006340.jpg)
+
+![Stemborer damage - (C) Icipe - Africa Insect Science for Food and Health](http://www.push-pull.net/images/90.jpg)
