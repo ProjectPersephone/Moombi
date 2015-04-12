@@ -1,7 +1,7 @@
 # Moombi
 **ELEO remote sensing - forecasting floods, landslides and insect pest outbreaks, with a focus on East Africa**
 
-See our [wiki on github](https://github.com/ProjectPersephone/Moombi/wiki) for details.
+See our [wiki on github](https://github.com/ProjectPersephone/Moombi/wiki) for details. [日本語の発表](https://docs.google.com/presentation/d/1yHHvd1KFocwx9Lmh67GwWYRqSqW2Qua4jC7uKaHyT3Y/edit#slide=id.p)
 
 [Submitted](https://2015.spaceappschallenge.org/project/eleo-remote-sensing---forecasting-floods-landslides-and-insect-pest-outbreaks/) as a [2015 International Space Apps Challenge](https://2015.spaceappschallenge.org/) project
 
